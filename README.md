@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohRezam/](https://github.com/hesam835/)
+- 👨‍💻 All of my projects are available at [https://github.com/hesam835/](https://github.com/hesam835/)
 
 - 💬 Ask me about **Python, Django, DRF, Postgres**
 
